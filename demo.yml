@@ -1,2 +1,2 @@
 demo:
-  greeting: "Hello from config server"
+  greeting: "Hello from refresh config server"
